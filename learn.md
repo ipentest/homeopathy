@@ -1,5 +1,5 @@
-This file has videos, posts, tricks and treats from posts etc... This might be just one file I'll ever need, however I might think of splitting this up into multiple
-
+* This file has videos, posts, tricks and treats from posts etc... This might be just one file I'll ever need, however I might think of splitting this up into multiple
+*
 Only the best videos which have stuff in them and have helped me revise:
 
 1. http://hope.synergyhomeopathic.com/?product=dr-kishor-mehta-organon-based-homeopathic-practice-part-1
